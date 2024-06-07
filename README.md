@@ -1,8 +1,8 @@
-# Data 8 Public Materials for Spring 2022
+# Otterless version of the Data 8 Public Materials for Spring 2022
 
-This repo contains the publicly available materials that are used in the Data 8 Foundations of Data Science course during the Spring 2022 semester.
+This repo contains all the notebooks used in Berkeley's Data 8 except all the otter grader cells have been removed. 
 
-This includes: homeworks, labs, and notebooks used in lecture.
+This includes homework, labs, and notebooks used in lectures.
 
 Course Calendars:
 - [Example Course Calendar from UCB Data 8](http://data8.org/materials-sp22/)
